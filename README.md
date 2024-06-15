@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sachin !
 
-![Logo](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)
+![Logo](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)
 
 
 ## 🚀 About Me
