@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-- 🔭 I’m currently working as  React js.
+- 🔭 React js Developer.
 - 🤔 I’m looking for help with React advanced.
 - 💬 Ask me about Javascript .
 - 📫 How to reach me: sachin06in@gmail.com 
